@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Local LLM Quantization Benchmark
 
 I benchmarked two GGUF quantizations of Qwen2.5-3B-Instruct on my Apple M1 Max using llama.cpp. I measured how long it took to receive the first streamed text and how quickly each model generated tokens.
@@ -26,4 +26,4 @@ Q4_K_M had **17.3% higher median decode throughput**. Q8_0 delivered the first s
 - [Q8_0 raw results](q8-verified-results.txt)
 =======
 # llm-quant-bench
->>>>>>> d056184996f98875251cdb39fa7f6a59e2183945
+ d056184996f98875251cdb39fa7f6a59e2183945
