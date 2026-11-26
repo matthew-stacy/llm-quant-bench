@@ -24,6 +24,4 @@ Q4_K_M had **17.3% higher median decode throughput**. Q8_0 delivered the first s
 - [`bench.py`](bench.py) — Python benchmark client
 - [Q4_K_M raw results](q4-verified-results.txt)
 - [Q8_0 raw results](q8-verified-results.txt)
-=======
-# llm-quant-bench
- d056184996f98875251cdb39fa7f6a59e2183945
+
